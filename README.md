@@ -53,6 +53,29 @@ Now, add (click the checkbox) beside your new notebook. Add an informative commi
 
 Great, we've made some local changes! Our primary remaining task is to *push* our code back to GitHub. This will allow us to share our code with others. Additionally, pushing code to GitHub is the recommended way to update your own website. 
 
+To push your code, just click the black "Push" button at the top right of GitHub Desktop. Before you click, you can notice that the button indicates the number of commits that you have made since your last push. After you click the button, you will have no more commits to push. 
+
+## 8. Inspect on GitHub
+
+Now go to the URL of your fork on GitHub and inspect the new `README.md` file. You can also take a look at the Jupyter Notebook you created. Note a nifty feature: by default, GitHub renders the Jupyter Notebook, so that you can see the plot you created. Your code is also shown in an attractive and readable format. 
+
+## 9. Pull
+
+What if there's a change made on GitHub that's not present in your local repository? This is a common situation when collaborating. Your partner made some cool improvement to the code that you would like to access. To do this, you need to *pull*. 
+
+To practice pulling, we need to make a change on GitHub. For now, just edit the `README.md` file again, which you can do by navigating to this file and clicking the pencil icon. Add another sentence to the top of the file. Here's a good one:
+
+> I'm \[your name\] and I edited this file online! 
+
+At the bottom of the editing screen, you'll be asked to commit the result. Make sure to add a useful commit message. 
+
+Ok, let's incorporate this change into our local repository. In GitHub Desktop, the button that used to say "Push" should now say either "Fetch" or "Pull" with an indicator of how many commits there are to be pulled. If it says "Fetch," you should click it once and wait for it to say "Pull." Once it says "Pull," click it again and wait a few moments for the pull to complete. 
+
+Finally, check the `README.md` file on your local machine. The change that you made online should now be reflected in your local file as well. 
+
+## ...and beyond...
+
+Great job! If you comfortably navigated these exercises, then you have the necessary basics for working with git and GitHub. These will get you most of the way through the course, and indeed, through your programming career. The most important topics that we haven't yet discussed are *merging* and *branching*, which are especially relevant when collaborating with others. We may come back to these in a future Discussion activity. 
 
 
 
