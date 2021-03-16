@@ -1,6 +1,8 @@
 # Practice with git and GitHub
 
-This is a very simple repository for practicing with git and GitHub. 
+This is a very simple repository for practicing with git and GitHub. git is a utility for *version control*. When a body of code is tracked with git, it is easy to see how the software has evolved over time, to roll back changes when needed, and to incorporate modifications by multiple collaborators. 
+
+GitHub is a free online code hosting service that runs using git. We'll use git and GitHub to collaborate on code and to host the blogs on which you'll submit your homework. 
 
 ## Preparation
 
@@ -77,7 +79,7 @@ Finally, check the `README.md` file on your local machine. The change that you m
 
 Great job! If you comfortably navigated these exercises, then you have the necessary basics for working with git and GitHub. These will get you most of the way through the course, and indeed, through your programming career. The most important topics that we haven't yet discussed are *merging* and *branching*, which are especially relevant when collaborating with others. We may come back to these in a future Discussion activity. 
 
-
+Another topic that you might find useful to explore on your own is the `.gitignore` file. This file specifies files which should be *excluded* from tracking by git. This is handy if there are certain "junk" files that you would prefer not to see in GitHub Desktop. 
 
 
 
