@@ -6,7 +6,7 @@ This is a very simple repository for practicing with git and GitHub. git is a ut
 
 GitHub is a free online code hosting service that runs using git. We'll use git and GitHub to collaborate on code and to host the blogs on which you'll submit your homework. 
 
-***Note***: if you are already comfortable using git from the command line, you can follow along with these instructions, replacing GitHub Desktop operations with the appropriate terminal commands. Both approaches are valid!! Erin prefers the command line and Phil like's GitHub Desktop. =)
+***Note***: if you are already comfortable using git from the command line, you can follow along with these instructions, replacing GitHub Desktop operations with the appropriate terminal commands. Both approaches are valid!! Erin prefers the command line and Phil likes GitHub Desktop. =)
 
 ## Preparation
 
