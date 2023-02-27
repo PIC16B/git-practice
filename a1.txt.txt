@@ -1,0 +1,1 @@
+bu bir calismadir bu satir lokalde git repo olusturulup yazilmistir.
