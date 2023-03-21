@@ -1,4 +1,5 @@
 # Practice with git and GitHub
+im jose and i add new line to main branch to test merge commands
 im jose and i edited this file online!
 im jose and i edited this file!
 \[Your Step 3 Edit Here\]
