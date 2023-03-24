@@ -1,6 +1,6 @@
 # Practice with git and GitHub
 
-\[Your Step 3 Edit Here\]
+\[I'm mov2r7 and I edited this file!\]
 
 This is a very simple repository for practicing with git and GitHub. git is a utility for *version control*. When a body of code is tracked with git, it is easy to see how the software has evolved over time, to roll back changes when needed, and to incorporate modifications by multiple collaborators. In this activity, we're going to focus on core git workflows for single-person projects. We may do a follow-up activity later in the quarter on workflows for collaborative projects. 
 
