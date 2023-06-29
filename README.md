@@ -71,7 +71,7 @@ What if there's a change made on GitHub that's not present in your local reposit
 
 To practice pulling, we need to make a change on GitHub. For now, just edit the `README.md` file again, which you can do by navigating to this file and clicking the pencil icon. Add another sentence to the top of the file. Here's a good one:
 
-> I'm \[your name\] and I edited this file online! 
+> I'm Nate and I edited this file online! 
 
 At the bottom of the editing screen, you'll be asked to commit the result. Make sure to add a useful commit message. 
 
