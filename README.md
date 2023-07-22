@@ -30,6 +30,8 @@ In your local clone of the repository, open this file (`README.md`). At the top 
 
 > I'm \[your name\] and I edited this file! 
 
+Hey Arta. what can i do for you?! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bosss be your unt >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 ## 4. Add and Commit
 
 Now go over to GitHub Desktop. Observe that the file `README.md` is now listed as changed. If there isn't already a blue checkmark beside the file, click the box to make one. 
