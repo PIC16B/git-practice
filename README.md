@@ -1,7 +1,7 @@
 # Practice with git and GitHub
 
-\[Your Step 3 Edit Here\]
-
+I am Jason and i edited this file
+Yo i edited online2
 This is a very simple repository for practicing with git and GitHub. git is a utility for *version control*. When a body of code is tracked with git, it is easy to see how the software has evolved over time, to roll back changes when needed, and to incorporate modifications by multiple collaborators. In this activity, we're going to focus on core git workflows for single-person projects. We may do a follow-up activity later in the quarter on workflows for collaborative projects. 
 
 GitHub is a free online code hosting service that runs using git. We'll use git and GitHub to collaborate on code and to host the blogs on which you'll submit your homework. 
@@ -71,7 +71,7 @@ What if there's a change made on GitHub that's not present in your local reposit
 
 To practice pulling, we need to make a change on GitHub. For now, just edit the `README.md` file again, which you can do by navigating to this file and clicking the pencil icon. Add another sentence to the top of the file. Here's a good one:
 
-> I'm \[your name\] and I edited this file online! 
+> I'm Jason and I edited this file online! 
 
 At the bottom of the editing screen, you'll be asked to commit the result. Make sure to add a useful commit message. 
 
